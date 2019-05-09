@@ -1,0 +1,5 @@
+D:\HoushmandProject\nademi\CAOCertificate\SourceCode\BusinessObjects\bin\Debug\CAOCertificate.BusinessObjects.dll
+D:\HoushmandProject\nademi\CAOCertificate\SourceCode\BusinessObjects\bin\Debug\CAOCertificate.BusinessObjects.pdb
+D:\HoushmandProject\nademi\CAOCertificate\SourceCode\BusinessObjects\obj\Debug\ResolveAssemblyReference.cache
+D:\HoushmandProject\nademi\CAOCertificate\SourceCode\BusinessObjects\obj\Debug\CAOCertificate.BusinessObjects.dll
+D:\HoushmandProject\nademi\CAOCertificate\SourceCode\BusinessObjects\obj\Debug\CAOCertificate.BusinessObjects.pdb
